@@ -9,7 +9,7 @@ This project uses real sales data from a retail superstore (from Kaggle) to answ
 Imagine a retail superstore manager who is unsure about which products to stock more of, when to run promotions, or how seasonal changes affect sales. By analyzing the sales data, we uncovered several insights:
 
 - **Key Products & Categories:**  
-  We identified top-selling products and high-performing categories that drive most revenue.
+  Identified top-selling products and high-performing categories that drive most revenue.
 
 - **Seasonal Trends:**  
   Sales patterns change over the year—with noticeable peaks and dips that suggest the best times to promote or adjust inventory.
