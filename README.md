@@ -1,4 +1,4 @@
-# Superstore Sales Analysis and Forecasting
+# Superstore Sales Analysis and Dashboard
 
 ## Project Overview
 
