@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project uses real sales data from a retail superstore (from Kaggle) to answer a simple but important business question: ** By cleaning the data, exploring key sales drivers, and applying a forecasting model, the project turns raw numbers into insights that support better decision-making.
+This project uses real sales data from a retail superstore (from Kaggle) to answer a simple but important business question: ** By cleaning the data, exploring key sales drivers, and sales trend, the project turns raw numbers into insights that support better decision-making.
 
 ## Business Story
 
@@ -26,19 +26,7 @@ These insights can help the business optimize inventory, plan targeted promotion
 
 - **Python & Pandas:** For data cleaning and analysis.
 - **Matplotlib & Seaborn:** To create initial visualizations.
-- **Plotly:** For interactive charts that help visualize the data in a dashboard.
 - **SQLite:** For storing the cleaned data and running SQL queries if needed.
-
-## Dataset Details
-
-The dataset, named `Superstore Sales.csv`, includes:
-
-- **Order Date:** When each order was placed.
-- **Ship Date:** When the order was shipped.
-- **Product Name:** Which product was sold.
-- **Sales:** Revenue from each sale.
-- **Category:** The product category.
-- **Postal Code:** Customer’s postal code (used for regional analysis).
 
 ## Conclusion
 
