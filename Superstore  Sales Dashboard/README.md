@@ -40,3 +40,6 @@ The dataset used is **"Superstore Sales.csv"**, which contains the following col
 
 This project demonstrates how a retail superstore can use data analysis and forecasting to gain valuable insights. By understanding which products sell best, identifying seasonal trends, and predicting future sales, the business can make smarter decisions—improving inventory management, optimizing promotions, and ultimately boosting profits.
 
+## Dashboard Link
+https://public.tableau.com/views/SuperstoreSalesDashboard_17558584893820/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
