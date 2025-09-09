@@ -54,8 +54,11 @@ The top 5 states by sales volume are California, New York, Texas, Washington, an
 The Canon imageCLASS 2200 Advanced Copier was the top-performing product by revenue for 2017-2018, driven by increasing demand for multifunctional devices that integrate printing, copying, scanning, and faxing to enhance office productivity and document management amid digital transformation trends.
 
 **Next Analysis**
+
 **Shipping Efficiency**: Building on the discovered average shipping delays by class, compare them against promised delivery ranges. Identify bottlenecks using logistic regression on factors like distance or carrier, and recommend partnerships to reduce delays exceeding 2 days for improved customer satisfaction.
+
 **Regional Sales Drivers**: Drill down into top states by analyzing drivers via multiple linear regression (e.g., variables like income levels, ad spend, or industry presence). For instance, if tech sectors correlate highly in California, focus B2B marketing there; track quarterly to refine strategies for higher ROI.
+
 **Customer Demand Trends and Predictions**: Investigate temporal demand patterns, such as the surge in the Canon imageCLASS 2200 Advanced Copier during 2017-2018, likely fueled by economic recovery boosting print demand (1-2% industry growth), rising need for affordable multifunctional devices in offices transitioning to digital workflows, and productivity enhancements amid improving business conditions.
 
 ## Dashboard Link
