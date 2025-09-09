@@ -1,21 +1,25 @@
 # Superstore Sales Analysis and Dashboard
+
+## Data
+Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+
 ## Project Overview
 This project focuses on analyzing sales data from a retail superstore to uncover key drivers of performance. By combining data cleaning, exploratory data analysis (EDA), shipping performance analysis, and regional sales analysis, this project aims to provide actionable business insights that can be used for strategic decision-making in inventory management, logistics, and regional marketing.
 
 ## Key Features
-- **Exploratory Data Analysis (EDA):**  
+- [x] **Exploratory Data Analysis (EDA):**  
   Identify top-selling products, sales by category, and overall sales trends.
   
-- **Data Cleaning & Transformation:**  
+- [x] **Data Cleaning & Transformation:**  
   Handle missing values, convert date columns to datetime, and derive new metrics such as shipping delay.
 
-- **Shipping Performance & Efficiency:**  
+- [x] **Shipping Performance & Efficiency:**  
   Calculate and visualize shipping delays to assess logistics efficiency.
 
-- **Regional & Geographic Sales Analysis:**  
+- [x]**Regional & Geographic Sales Analysis:**  
   Group and visualize sales by Region and State to identify high- and low-performing areas.
 
-- **Dashboard & Reporting:**  
+- [x] **Dashboard & Reporting:**  
 Create interactive dashboards with tools like Tableau to communicate insights.
 
 ## Tools and Technologies Used
@@ -23,7 +27,7 @@ Create interactive dashboards with tools like Tableau to communicate insights.
 - **Pandas** for data wrangling.
 - **Matplotlib & Seaborn** for data visualization.
 - **SQLite** (optional) for data storage.
-- **Tableau** for interactive dashboards (future work).
+- **Tableau** for interactive dashboards.
 
 ## Dataset
 The dataset used is **"Superstore Sales.csv"**, which contains the following columns:
