@@ -23,7 +23,7 @@
 - **Matplotlib & Seaborn** for data visualization.
 
 ## Dataset
-The dataset used is **"Superstore Sales.csv"**, which contains the following columns:
+The dataset used is **"Bigquery Public Dataset: Google e-commerce data set from Google Analytics"**, which contains the following columns:
 
 ---
 
