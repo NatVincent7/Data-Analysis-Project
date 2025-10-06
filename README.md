@@ -6,3 +6,4 @@
 - **Data Warehouse**: Bigquery
 - **Statistics**: EDA, Hypothesis testing
 - **Basic ML**: Linear Regression, Logistic Regression, Decision Tree, K-Means Clustering
+- **Version Control**: Git/ Github
